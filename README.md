@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## I'm currently working on machine learning projects
 <!--
 **wkw-hub/wkw-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
